@@ -402,4 +402,4 @@ $(document).ready(function() {
     });
 });
 //版本显示
-console.log("%cRONGApp科技","background:#2ECCFA;color:#fff;margin:10px;padding:6px;","https://joibk.cn/we");
+console.log("%cRONG荣科技","background:#ff6d6d;color:#fff;margin:10px;padding:6px;","https://joibk.cn/we");
